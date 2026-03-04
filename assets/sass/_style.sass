@@ -1,0 +1,15 @@
+.toc
+    ol
+        li
+            @include meta
+            a
+                &.active
+                    &::before
+                        background: $color-accent
+                        border-radius: 100%
+                        content: ""
+                        display: inline-block
+                        height: 10px
+                        left: -15px
+                        margin-right: 5px
+                        width: 10px

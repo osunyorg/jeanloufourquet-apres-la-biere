@@ -11,8 +11,11 @@ params:
   search:
     active: true
   logo:
-    header: '/assets/images/logo.png'
+    header: '/assets/images/text.png'
     footer: '/assets/images/logo.png'
   home:
     head:
       title: site
+  posts:
+    index:
+      layout: grid
