@@ -9,6 +9,22 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            apreslabiere
+          value: >-
+            https://www.facebook.com/apreslabiere
+        instagram:
+          label: >-
+            apreslabiere
+          value: >-
+            https://instagram.com/apreslabiere
+        x:
+          label: >-
+            ApresLaBiere
+          value: >-
+            https://x.com/ApresLaBiere
 
   taxonomies:
     administrator: administrators

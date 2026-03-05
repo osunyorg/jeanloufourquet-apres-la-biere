@@ -1,23 +1,50 @@
 default:
 contents_reading_time:
-  seconds: 0
+  seconds: 12
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: call_to_action
-
-
+    title: >-
+      Tant que vous êtes là ;)
+    slug: >-
+      tant-que-vous-etes-la
     ranks:
       base: 2
+      self: 2
     top:
-      active: false
-
+      active: true
+      title: 
+        value: >-
+          Tant que vous êtes là ;)
+        heading: 2
+      description: >-
+        <p>Voici quelques manières de suivre et de soutenir le projet d'ApresLaBiere</p>
     data:
       layout: accent_background
-
+      text: >-
+        <p>Voici quelques manières de suivre et de soutenir le projet d'ApresLaBiere</p>
 
       buttons:
+        - 
+          title: >-
+            Donner de l'argent sur Tipeee
+          url: >-
+            https://fr.tipeee.com/apreslabiere
+          target_blank: true
+        - 
+          title: >-
+            S'inscrire à la gazette
+          url: >-
+            https://apreslabiere.us17.list-manage.com/subscribe?u=ce9bb6293d106e4e91668272f&id=79ab375d5d
+          target_blank: true
+        - 
+          title: >-
+            Me faire intervenir
+          url: >-
+            https://homoconscientus.fr
+          target_blank: true
 
 
 
