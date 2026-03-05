@@ -7,7 +7,7 @@ params:
   breadcrumb:
     position: none
   summary:
-    position: hero
+    position: content
   search:
     active: true
   logo:
@@ -19,3 +19,10 @@ params:
   posts:
     index:
       layout: grid
+    single:
+      options:
+        authors: false
+        published_at: true
+        reading_time: true
+        signature: true
+        updated_at: false
