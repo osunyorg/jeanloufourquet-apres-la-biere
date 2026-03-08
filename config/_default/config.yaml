@@ -11,8 +11,8 @@ params:
   search:
     active: true
   logo:
-    header: '/assets/images/text.png'
-    footer: '/assets/images/logo.png'
+    header: '/assets/images/bulle.svg'
+    footer: '/assets/images/logo.svg'
   home:
     head:
       title: site

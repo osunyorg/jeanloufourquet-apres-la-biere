@@ -17,6 +17,8 @@ header#document-header
             .content
                 align-items: center
                 flex-direction: column
+                .hero-text
+                    width: columns(10)
                 figure
                     margin-top: $spacing-5
 .toc
@@ -38,3 +40,8 @@ main
     .block-image
         img
             min-width: 300px
+footer#document-footer
+    .container + .container
+        @include media-breakpoint-up(desktop)
+            flex-direction: column
+            align-items: center
