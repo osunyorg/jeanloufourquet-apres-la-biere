@@ -19,4 +19,49 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Société
+  slug: societe
+  target: "/actualites/societe/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/societe"
+  file: content/fr/posts_categories/societe/_index.html
+- title: Écologie
+  slug: ecologie
+  target: "/actualites/ecologie/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/ecologie"
+  file: content/fr/posts_categories/ecologie/_index.html
+- title: Philosophie
+  slug: philosophie
+  target: "/actualites/philosophie/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/philosophie"
+  file: content/fr/posts_categories/philosophie/_index.html
+- title: Médias & Numérique
+  slug: medias-numerique
+  target: "/actualites/medias-et-numerique/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/medias-et-numerique"
+  file: content/fr/posts_categories/medias-et-numerique/_index.html
+- title: Série
+  slug: serie
+  target: "/actualites/serie/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/serie"
+  file: content/fr/posts_categories/serie/_index.html
 
