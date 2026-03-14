@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  slug: a-propos
+- title: Le concept
+  slug: le-concept
   target: "/a-propos/"
   kind: page
   new_tab: false
