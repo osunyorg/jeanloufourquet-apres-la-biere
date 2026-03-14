@@ -3,13 +3,13 @@ title: Menu principal
 items:
 - title: Le concept
   slug: le-concept
-  target: "/a-propos/"
-  kind: page
+  target: "/actualites/2017-05-15-apreslabiere-fr-le-concept/"
+  kind: post
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
+  path: "/posts/2017/2017-05-15-apreslabiere-fr-le-concept"
+  file: content/fr/posts/2017/2017-05-15-apreslabiere-fr-le-concept.html
 - title: Société
   slug: societe
   target: "/actualites/societe/"
