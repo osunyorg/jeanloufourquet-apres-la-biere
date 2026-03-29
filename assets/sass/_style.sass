@@ -13,14 +13,15 @@ header#document-header
                 .hero-text
                     width: 100%
     &.hero--with-image
-        .container
-            .content
-                align-items: center
-                flex-direction: column
-                .hero-text
-                    width: columns(10)
-                figure
-                    margin-top: $spacing-5
+        @include media-breakpoint-up(desktop)
+            .container
+                .content
+                    align-items: center
+                    flex-direction: column
+                    .hero-text
+                        width: columns(10)
+                    figure
+                        margin-top: $spacing-5
 .toc
     ol
         li
