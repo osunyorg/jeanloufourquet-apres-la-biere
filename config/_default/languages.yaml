@@ -9,6 +9,12 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            jeanlou@apreslabiere.fr
+          value: >-
+            mailto:jeanlou@apreslabiere.fr
       social_networks:
         facebook:
           label: >-
@@ -25,11 +31,26 @@ fr:
             jean-lou-fourquet
           value: >-
             https://www.linkedin.com/in/jean-lou-fourquet/
+        mastodon:
+          label: >-
+            @apreslabiere@mastodon.tetaneutral.net
+          value: >-
+            https://@apreslabiere@mastodon.tetaneutral.net
+        peertube:
+          label: >-
+            skeptikon.fr/a/jeanlou/video-channels
+          value: >-
+            https://skeptikon.fr/a/jeanlou/video-channels
         x:
           label: >-
             ApresLaBiere
           value: >-
             https://x.com/ApresLaBiere
+        youtube:
+          label: >-
+            ApresLaBiere
+          value: >-
+            https://www.youtube.com/@ApresLaBiere
 
   taxonomies:
     administrator: administrators
