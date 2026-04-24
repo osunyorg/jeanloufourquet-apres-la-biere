@@ -13,16 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/about/"
-to = "/a-propos/"
-
-[[redirects]]
-from = "/actualites/2026-01-20-tiktok-n-est-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation/"
-to = "/actualites/2026-01-20-tiktok-n-est-pas-matlab/"
-
-[[redirects]]
-from = "/actualites/2024-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/"
-to = "/actualites/2026-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/"
-
