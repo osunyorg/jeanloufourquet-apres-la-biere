@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/about/"
+from = "/about/index.html"
 to = "/a-propos/"
 
 [[redirects]]
-from = "/actualites/2026-01-20-tiktok-n-est-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation/"
+from = "/actualites/2026-01-20-tiktok-n-est-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation/index.html"
 to = "/actualites/2026-01-20-tiktok-n-est-pas-matlab/"
 
 [[redirects]]
-from = "/actualites/2024-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/"
+from = "/actualites/2024-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/index.html"
 to = "/actualites/2026-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/"
 
