@@ -19,8 +19,12 @@ from = "/about/index.html"
 to = "/a-propos/"
 
 [[redirects]]
+from = "/actualites/2026-01-20-tiktok-n-est-pas-matlab/index.html"
+to = "/actualites/2026-01-20-tiktok-nest-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation-8b82a/"
+
+[[redirects]]
 from = "/actualites/2026-01-20-tiktok-n-est-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation/index.html"
-to = "/actualites/2026-01-20-tiktok-n-est-pas-matlab/"
+to = "/actualites/2026-01-20-tiktok-nest-pas-matlab-le-profilage-algorithmique-n-est-ni-de-l-education-ni-de-l-emancipation-8b82a/"
 
 [[redirects]]
 from = "/actualites/2024-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/index.html"
