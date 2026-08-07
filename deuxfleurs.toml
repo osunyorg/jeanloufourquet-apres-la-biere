@@ -30,3 +30,7 @@ to = "/actualites/2026-01-20-tiktok-nest-pas-matlab-le-profilage-algorithmique-n
 from = "/actualites/2024-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/index.html"
 to = "/actualites/2026-03-26-numerique-ethique-en-entreprise-levier-de-changement-ou-concert-de-pipeau-1/"
 
+[[redirects]]
+from = "/feed"
+to = "https://www.apreslabiere.fr/index.xml"
+
